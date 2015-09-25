@@ -4,6 +4,7 @@
 
 - NetworkManager
   - https://help.ubuntu.com/community/NetworkManager
+  - package information `network-manager Depends dnsmasq-base`
 - dnsmasq
   - http://askubuntu.com/a/500207/207256
   - https://help.ubuntu.com/community/Dnsmasq
